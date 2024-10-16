@@ -1,0 +1,12 @@
+GET http://localhost:5199/games/2
+
+####
+POST http://localhost:5199/games
+Content-Type: application/json
+
+{
+    "name": "Minecraft",
+    "genre": "adventure",
+    "price": 19.99,
+    "releaseDate": "2011-11-18"
+}
