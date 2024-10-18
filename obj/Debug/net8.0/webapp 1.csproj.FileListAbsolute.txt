@@ -23,3 +23,29 @@ C:\Users\breno\Desktop\codigos\c#\aspnet\webapp 1\obj\Debug\net8.0\refint\webapp
 C:\Users\breno\Desktop\codigos\c#\aspnet\webapp 1\obj\Debug\net8.0\webapp 1.pdb
 C:\Users\breno\Desktop\codigos\c#\aspnet\webapp 1\obj\Debug\net8.0\webapp 1.genruntimeconfig.cache
 C:\Users\breno\Desktop\codigos\c#\aspnet\webapp 1\obj\Debug\net8.0\ref\webapp 1.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\appsettings.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\webapp 1.exe
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\webapp 1.deps.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\webapp 1.runtimeconfig.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\webapp 1.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\webapp 1.pdb
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.AssemblyInfoInputs.cache
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.AssemblyInfo.cs
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.csproj.CoreCompileInputs.cache
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.sourcelink.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\staticwebassets\msbuild.webapp 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\staticwebassets\msbuild.build.webapp 1.props
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.webapp 1.props
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webapp 1.props
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\scopedcss\bundle\webapp 1.styles.css
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\refint\webapp 1.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.pdb
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.genruntimeconfig.cache
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\ref\webapp 1.dll

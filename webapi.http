@@ -1,12 +1,28 @@
-GET http://localhost:5199/games
+GET http://localhost:5145/games/
 
 ####
-POST http://localhost:5199/games
+POST http://localhost:5145/games
 Content-Type: application/json
 
 {
-    "name": "Minecraft",
+    "name": "minecraft",
     "genre": "adventure",
     "price": 19.99,
-    "releaseDate": "2011-11-18"
+    "releaseDate": "2012-10-11"
 }
+
+#####
+
+PUT http://localhost:5145/games/2
+Content-Type: application/json
+
+{
+    "name": "zelda",
+    "genre": "adventure",
+    "price": 9.99,
+    "releaseDate": "2002-10-11"    
+}
+
+#####
+
+DELETE http://localhost:5145/games/1
