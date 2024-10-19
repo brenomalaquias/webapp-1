@@ -49,3 +49,9 @@ C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\refint\webapp 1.
 C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.pdb
 C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.genruntimeconfig.cache
 C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\ref\webapp 1.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.csproj.AssemblyReference.cache
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BRENO\Desktop\csharp\web-app\webapp-1\obj\Debug\net8.0\webapp 1.csproj.Up2Date

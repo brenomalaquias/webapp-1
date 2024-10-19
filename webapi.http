@@ -5,9 +5,9 @@ POST http://localhost:5145/games
 Content-Type: application/json
 
 {
-    "name": "minecraft",
-    "genre": "adventure",
-    "price": 19.99,
+    //"name": "minecraft",
+   // "genre": "adventure",
+    "price": 1000.00,
     "releaseDate": "2012-10-11"
 }
 
