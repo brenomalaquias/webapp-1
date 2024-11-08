@@ -12,4 +12,12 @@ public class GameStoreContext(DbContextOptions<GameStoreContext> options)
 
     public DbSet<Genre> Genres => Set<Genre>();
 
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Genre>().HasData(
+            new {Id = 1, Name = "Fighting"},
+            new {Id = 2, Name = "Roleplaying"},
+            new {Id = 3, Name = "Adventure"}
+        );
+    }
 }
