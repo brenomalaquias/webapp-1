@@ -5,10 +5,10 @@ POST http://localhost:5145/games
 Content-Type: application/json
 
 {
-    "name": "minecraft",
-    "genreId": 3,
+    "name": "uncharted",
+    "genreId":3 ,
     "price": 10.00,
-    "releaseDate": "2012-10-11"
+    "releaseDate": "2008-10-11"
 }
 
 #####
@@ -18,7 +18,7 @@ Content-Type: application/json
 
 {
     "name": "zelda",
-    "genre": "adventure",
+    "genreId": 3,
     "price": 9.99,
     "releaseDate": "2002-10-11"    
 }
